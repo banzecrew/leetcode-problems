@@ -4,3 +4,4 @@ package org.leetcode.course
   TestArraysAndStrings
   TestHashing
   TestBinarySearch
+  TreesAndGraphs
