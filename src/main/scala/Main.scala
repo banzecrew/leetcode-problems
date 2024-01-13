@@ -1,5 +1,6 @@
 package org.leetcode.course
 
-@main def hello: Unit =
+@main def app() =
   TestArraysAndStrings
   TestHashing
+  TestBinarySearch
